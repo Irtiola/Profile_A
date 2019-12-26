@@ -1,0 +1,38 @@
+.footer {
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+    margin-top: 100%;
+}
+li{
+    list-style: none;
+
+}
+
+ul {
+    position: sticky;
+    text-align: end;
+    font-size: larger;
+    display:-webkit-inline-box;
+}
+
+a{
+    margin: 20px;
+}
+.brand-logo{
+    font-size: larger;
+    margin-right: 400px;
+}
+nav{
+    background-color: darkslategrey;
+    
+}
+a:-webkit-any-link, .footertext{
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.footertext{
+    text-align: center;
+}
